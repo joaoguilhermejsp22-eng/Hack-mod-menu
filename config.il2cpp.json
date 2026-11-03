@@ -1,0 +1,14 @@
+{
+  "DumpAddress": true,
+  "ForceDump": true,
+  "NoRedirectedPointer": true,
+  "DumpMethod": true,
+  "DumpField": true,
+  "DumpProperty": true,
+  "DumpAttribute": false,
+  "DumpFieldOffset": true,
+  "DumpMethodOffset": true,
+  "DumpTypeDefIndex": true,
+  "GenerateDummyDll": false,
+  "RequireAnyKey": false
+}
